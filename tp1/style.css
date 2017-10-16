@@ -1,0 +1,49 @@
+
+.coord
+ {
+    border-collapse: collapse;
+    
+}
+.coord td
+{  
+	background-color: burlywood;  
+	padding: 8px;
+	text-align: left;
+	border-bottom: 1px solid #ddd;
+	 
+}
+
+a:link {
+    color: crimson;
+}
+/**************************** coordonnées********************************/
+.formation
+{
+	border-collapse: collapse;
+	width: 100%
+
+}
+.experience
+{
+	border-collapse: collapse;
+	width: 100%
+}
+
+
+
+/*******************************************************************************/
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+th {
+    background-color: navajowhite;
+    color: brown;
+}
+tr:nth-child(even){background-color: linen}
+/**************************************************************************/
+
+h1
+{
+	color: darkred;
+}
