@@ -1,0 +1,62 @@
+
+
+
+#error
+{
+	background-color: pink;
+	padding : 5px;
+	border: 1px solid #CF44C9;
+	border-radius: 10px;
+	margin: 5px 5px;
+}
+#resultat
+{
+	color: white;
+	background-color: #078321;
+	padding : 5px;
+	border: 1px solid #004C10;
+	border-radius: 10px;
+	margin: 5px 5px;
+}
+
+label
+{ 
+
+	display: block;
+	width: 150px;
+	float: left;
+	color: #616900;
+	
+}
+input[type=text], input[type=date], input[type=email] {
+    width: 50%;
+    padding: 10px 10px;
+    margin: 5px 5px;
+    box-sizing: border-box;
+    border: 2px solid #0C695C;
+    border-radius: 10px;
+    background-color: #2B9D8E;
+}
+input[type=button] {
+
+    background-color: #2B9D8E;
+    border: 2px solid #0C695C;
+    border-radius: 10px;
+    padding: 13px 32px;
+    margin-left: 250px;
+    cursor: pointer;
+}
+body
+{
+	background-color: grey;
+}
+form
+{  
+	width: 500px; 
+    padding: 50px 50px;
+	margin: 100px;
+	border-radius: 10px;
+	background-color: white;
+	
+	
+}
